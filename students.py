@@ -20,4 +20,11 @@ students = [
         "group": "group 83",
         "course": "QA"
     },
+    {  "firstName": "Francheska",
+        "lastName": "Dream",
+        "age": 27,
+        "group": "group 83",
+        "course": "Backend"
+
+    }
 ]
