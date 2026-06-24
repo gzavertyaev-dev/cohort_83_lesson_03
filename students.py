@@ -19,5 +19,5 @@ students = [
         "age": 90,
         "group": "group 83",
         "course": "QA"
-    }
+    },
 ]
